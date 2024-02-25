@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PW 2</string>
+    <string name="click">ЖМИ</string>
+    <string name="youtube_video">Youtube видео</string>
+    <string name="message">Сообщение</string>
+    <string name="enter_your_text">Введите текст</string>
+    <string name="version">Версия: 1.0</string>
+</resources>

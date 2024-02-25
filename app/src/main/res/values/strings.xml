@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PW 2</string>
+    <string name="click">Click</string>
+    <string name="youtube_video">Youtube video</string>
+    <string name="message">Message</string>
+    <string name="enter_your_text">Enter your text</string>
+    <string name="version">Version: 1.0:</string>
+</resources>
